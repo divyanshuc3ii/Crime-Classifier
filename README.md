@@ -1,8 +1,8 @@
 # Crime Classification Machine Learning Web Application
 
 ## Overview
-This is a full-stack web application for crime classification using machine learning, built with Django (backend) and React (frontend).
-
+This is a full-stack web application for crime classification using machine learning, built with Django (backend) and React (frontend). One can download the model from here 
+https://github.com/bikasaha/CYBER-CRIME-CLASSIFIER and subsequently paste it in ml_folder which is inside the backend directory as mentioned below and run the below mentioned commands to run the project 
 ## Project Structure
 ```
 crime_classification_project/
